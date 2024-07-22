@@ -70,7 +70,7 @@ Validation: If switched to CQRS Pattern and Mediatr then FluentValidation can be
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/DishDatingApp.git
+    git clone https://github.com/Isazero/DishDatingApp.git
     cd DishDatingApp
     ```
 
