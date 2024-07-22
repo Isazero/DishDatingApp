@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishDatingApp", "DishDatingApp\DishDatingApp.csproj", "{3F3B2F39-DA09-49E8-B1B4-CBD0B56E5B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DishDatingApp.Tests", "DishDatingApp.Tests\DishDatingApp.Tests.csproj", "{028B4C69-BA91-4038-8606-3F68BE393784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F3B2F39-DA09-49E8-B1B4-CBD0B56E5B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3B2F39-DA09-49E8-B1B4-CBD0B56E5B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3B2F39-DA09-49E8-B1B4-CBD0B56E5B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3B2F39-DA09-49E8-B1B4-CBD0B56E5B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{028B4C69-BA91-4038-8606-3F68BE393784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028B4C69-BA91-4038-8606-3F68BE393784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028B4C69-BA91-4038-8606-3F68BE393784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028B4C69-BA91-4038-8606-3F68BE393784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
